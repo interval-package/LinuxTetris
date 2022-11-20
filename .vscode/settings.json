@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "tetris.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "types.h": "c",
+        "unistd.h": "c",
+        "termios.h": "c",
+        "curses.h": "c",
+        "stat.h": "c",
+        "fcntl.h": "c",
+        "input.h": "c"
+    }
+}
